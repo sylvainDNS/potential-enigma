@@ -1,0 +1,6 @@
+[submodule "ws-api"]
+	path = ws-api
+	url = https://github.com/sylvainDNS/potential-enigma-ws-api.git
+[submodule "front"]
+	path = front
+	url = https://github.com/sylvainDNS/potential-enigma-front.git
